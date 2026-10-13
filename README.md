@@ -1,16 +1,37 @@
-## Hi there 👋
+<h1 align="center">Brayan Estiven Patiño Cabrera</h1>
 
-<!--
-**BrayanCABRERA123/BrayanCABRERA123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## Perfil
+- *Nombre:* Brayan Estiven Patiño Cabrera
+- *GitHub:* [@BrayanCABRERA123](https://github.com/BrayanCABRERA123)
+- *Email:* [bspc1507@gmail.com](mailto:bspc1507@gmail.com)
+- *Organización institucional:* [code-sena](https://github.com/code-sena)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+##  Sobre mí
+Soy aprendiz del SENA en el Tecnólogo en Análisis y Desarrollo de Software (ADSO). Me gusta el desarrollo frontend y la construcción de aplicaciones web y móviles. 
+
+---
+
+##  Tecnologías
+- Angular 
+- TypeScript 
+- React Native 
+- Java & Spring Boot 
+- SQL Server 
+- HTML & CSS 
+- Docker 
+- Git & GitHub 
+
+---
+
+##  Proyectos
+- **LavaRápido**: plataforma web y Android para gestionar reservas, operarios y pagos de un lavadero de vehículos.
+
+---
+
+##  Contacto
+-  Email: bspc1507@gmail.com
+-  GitHub: https://github.com/BrayanCABRERA123
